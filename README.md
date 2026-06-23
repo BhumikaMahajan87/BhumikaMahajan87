@@ -6,32 +6,34 @@ I enjoy building practical machine learning systems that work on real-world data
 
 ## What I Work With
 
-| Area                   | Skills                                                                                                                                 |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **Programming**        | Python, SQL, C++, Java, JavaScript/TypeScript, R                                                                                       |
-| **Core CS**            | Data Structures & Algorithms, OOP, Operating Systems, Databases, Linux, Git/GitHub                                                     |
-| **Machine Learning**   | Supervised Learning, Unsupervised Learning, XGBoost, Feature Engineering, Model Evaluation, Hyperparameter Tuning, Recommender Systems |
-| **NLP & LLMs**         | BERT, Transformers, Hugging Face, OpenAI/GPT, Gemini, Prompt Engineering, RAG, Structured Outputs, ASR/Transcript Processing           |
-| **Search & Retrieval** | Embeddings, Semantic Search, Vector Search, TF-IDF, Ranking/Relevance Matching                                                         |
-| **Data & ML Systems**  | PySpark, Databricks, Delta Lake, MLflow, ETL/ELT Pipelines, Distributed Data Processing                                                |
-| **Frameworks & Tools** | NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Gradio, Jupyter, Google Colab, Docker basics                                         |
-| **Web**                | HTML, CSS, JavaScript, React basics, Node.js basics                                                                                    |
+| Area                              | Skills                                                                                                                                                                              |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming & CS**              | Python, SQL, C++, Java, JavaScript/TypeScript, R, Data Structures & Algorithms, OOP, Operating Systems, Databases, Complexity Analysis, Linux, Git/GitHub                           |
+| **Backend & APIs**                | REST APIs, API Design, Async/Parallel Processing, Python Concurrency, Node.js basics, Express.js basics, Microservices concepts                                                     |
+| **Data Platforms**                | Apache Spark, PySpark, Databricks, Delta Lake, ETL/ELT Pipelines, CDC/Incremental Processing, Distributed Data Processing, Data Wrangling, Preprocessing, Feature Extraction        |
+| **Databases & Search**            | MySQL, MongoDB, Vector Databases, Elasticsearch basics, Cassandra familiarity, Semantic Search, Vector Search, TF-IDF, Ranking, Relevance Matching                                  |
+| **LLMs, NLP & Retrieval**         | Gemini, OpenAI/GPT, FLAN-T5, BERT, Transformers, Hugging Face, NLP/NLU, ASR/Transcript Processing, Prompt Engineering, Structured Outputs, RAG, Embeddings                          |
+| **Machine Learning**              | Supervised Learning, Unsupervised Learning, XGBoost, Feature Engineering, Model Evaluation, Hyperparameter Tuning, Recommender Systems, User Behavior Modeling, Cold-start Modeling |
+| **Deep Learning & Multimodal AI** | Neural Networks, CNNs, RNNs/LSTMs, Attention, Vision-Language Models, Multimodal Embeddings, Image Captioning, Generative AI                                                        |
+| **MLOps, Cloud & DevOps**         | MLflow, Model Serving, Observability & Monitoring, CI/CD, Docker, Kubernetes basics, AWS, GCP Vertex AI, Azure, Cloud Deployment, GitHub Actions basics                             |
+| **Frameworks & Tools**            | PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, Keras, Gradio, FastAPI basics, Streamlit basics, Jupyter, Google Colab                                                |
+| **Also Explored**                 | OpenCV, Grad-CAM/XAI, CUDA basics, RAPIDS basics, LangChain basics, Tool/Function Calling basics                                                                                    |
 
 ## Featured Projects
 
-### News Headline Classifier
+### [News Headline Classifier](https://github.com/BhumikaMahajan87/news-headline-classifier)
 
 BERT-based news classification project with optimized preprocessing and low-latency inference.
 
-### Audio CAPTCHA Solver
+### [Audio CAPTCHA Solver](https://github.com/BhumikaMahajan87/audio-captcha-solver)
 
 Audio decoding system using MFCC/PCA features, classical ML models, and Conv1D CNN.
 
-### Image Captioning Model
+### [Image Captioning Model](https://github.com/BhumikaMahajan87/image-captioning-model)
 
 CNN+LSTM image captioning pipeline with BLEU-based evaluation.
 
-### Emotion-Based Media Recommender
+### [Emotion-Based Media Recommender](https://github.com/BhumikaMahajan87/emotion-based-media-recommender)
 
 Component-based frontend for emotion-driven music and movie recommendations.
 
